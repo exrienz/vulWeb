@@ -2,8 +2,8 @@
 {block name="content"}
     <div class="jumbotron">
       <div class="container">
-        <h1>Welcome to LazyStatus</h1>
-        <p>LazyStatus is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes</p>
+        <h1>Welcome to PayNet VulnGround</h1>
+        <p>PayNet VulnGround is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes</p>
         <p><a class="btn btn-primary btn-lg" href="/page.php?page=core" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
