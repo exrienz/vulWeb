@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>LazyStatus | Hosted Status Pages for Your Company</title>
+    <title>PayNet VulnGround | Hosted Status Pages for Your Company</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -36,7 +36,7 @@ body {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">LazyStatus</a>
+          <a class="navbar-brand" href="/">PayNet VulnGround</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" action="/user/login.php" method="post">
@@ -58,7 +58,7 @@ body {
       {block name="content"}{/block}
       <hr>
       <footer>
-        <p>&copy; {date('Y')} LazyStatus, Inc.</p>
+        <p>&copy; {date('Y')} PayNet VulnGround, Inc.</p>
       </footer>
     </div> <!-- /container -->
 
